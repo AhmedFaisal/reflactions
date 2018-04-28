@@ -1,0 +1,2 @@
+* It declares this folder as a repository ready to record chamges, but I must click record first.
+* the working directory contains everything, the git repo contains end target, and the staging area is a sandbox in between
